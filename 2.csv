@@ -1,0 +1,42 @@
+reaction_id,Reaction name,pathway,genes,gene_reaction_rule
+T_ABC__transporter_beta__D__glucose,ABC transport,,"2847,3066,2848,3067,2849,3068,2850,3069",and
+carb_entner_1.1.1.359_GLUCOSE__1__DEHYDROGENASE__NAD+__RXN,GDH,,"3003,3042,3204",or
+carb_entner_1.1.1.360_GLUCOSE__1__DEHYDROGENASE__NADP+__RXN,GDH,,"3003,3042,3204",or
+carb_entner_3.1.1.17_GLUCONOLACT__RXN,GL,,spontaneous,
+carb_entner_4.2.1.140_GLUCONATE__DEHYDRATASE__RXN,GAD,,3198,
+carb_degra__glucose_4.2.1.9_GLUCONATE__DEHYDRATASE__RXN,GAD,,3198,
+carb_entner_2.7.1.178_DEOXYGLUCONOKIN__RXN,KDGK,,3195,
+carb_entner_4.1.2.55_KDPGALDOL__RXN,KDPGA,,3197,
+carb_entner_4.1.2.55_DHDOGALDOL__RXN,KDPGA,", (Non-phosphorylative pathway)",3197,
+carb_glucneo_1.2.1.13_GAPDHSYNEC__RXN_NAD,GAPDH,Gap,0528,
+carb_glucneo_1.2.1.13_GAPDHSYNEC__RXN_NADP,GAPDH,Gap,0528,
+carb_enter_glucneo_2.7.2.3_PHOSGLYPHOS__RXN,PGK,pgk,0527,
+carb_enter_glucneo_1.2.1.9_1.2.1.9__RXN,GAPN,Gapn,3194,
+other_no__pathway_3.6.1.7_BS165362,Spontaneous,(Spontaneous degradation),spontaneous,
+carb_enter_glucneo_5.4.2.1_3PGAREARR__RXN,PGM,pgm,"0417,2236",or
+carb_entner_1.2.1.89_GLYCERALDEHYDE__DEHYDRO__RXN,ALDH,,"2636,2637,2639",and
+carb_entner_2.7.1.165_GKI__RXN,GK,,0666,
+carb_enter_glucneo_4.2.1.11_2PGADEHYDRAT__RXN,ENO,eno,0913,
+carb_enter_2.7.1.40_PEPDEPHOS__RXN,PK,,0981,
+other_lactate__biosynthesis_3__dehydroquinate__biosynthesis_RXN__8075,Methylglyoxal pathway,(methylglyoxal pathway)，Refer to uniport(https://www.uniprot.org/uniprot/?query=dehydroquinate+solfataricus&sort=score),0305,
+spontaneous_lactate__biosynthesis_3__dehydroquinate__biosynthesis_RXN__10054,Methylglyoxal pathway,,spontaneous,
+carb_degra__methylglyoxal_4.4.1.5_GLYOXI__RXN,Methylglyoxal pathway,Refer to uniport,2426,
+carb_degra__methylglyoxal_3.1.2.6_GLYOXII__RXN,Methylglyoxal pathway,Refer to uniport,"2072,2940,2890,1537,1157,2310,2515,0006,3132,1567",or
+carb_degra__lactate_1.1.3.15_BS257489,Methylglyoxal pathway,Refer to uniport,"3165,3163,3161",and
+carb_acetylcoa_1.2.7.1_PYRUFLAVREDUCT__RXN,Methylglyoxal pathway,TCA,"11071,1206,1207,1208,2128,2129,2130,2756,2757,2758,7412",and
+carb_cac_2.3.3.1_CITRATE__RE__SYNTHASE__RXN,TCA,TCA,2589,
+carb_cac_4.2.1.3_BS18707,TCA,TCA,1095,
+carb_cac_4.2.1.3_BS18708,TCA,TCA,1095,
+carb_cac_1.1.1.42_1.1.1.41_RXN__7969,TCA,TCA,2182,
+carb_cac_1.2.7.3_2__OXOGLUTARATE__SYNTHASE__RXN,TCA,TCA,"2815,2816",and
+carb_cac_6.2.1.5_SUCCCOASYN__RXN,TCA,TCA,"2482,2483",and
+carb_cac_1.3.99.1_1.3.5.1_SUCCINATE__DEHYDROGENASE__UBIQUINONE__RXN,TCA,TCA,"2356,2357,2358,2359",and
+carb_cac_4.2.1.2_FUMHYDR__RXN,TCA,TCA,1077,
+carb_cac_1.1.1.40_RXN__10813_NAD,TCA,TCA,2585,
+carb_cac_1.1.1.40_RXN__10813_NADP,TCA,TCA,2585,
+oxp_redox_1.6.5.3_RXN0__5330,TCA,,"0322,0323,0324,0325,0326,0327,0328,0329,0665 or 1010,2960,3148",and
+oxp_redox_1.10.3.13_soxABCD_TRANS__RXN__240,SoxABCD,,"10828,2656,2657,2658",and
+oxp_redox_1.10.3.13_soxM_TRANS__RXN__240,SoxM,,"2968,2969,2970,2971,2972,2973",and
+oxp_redox_1.10.3.13_doxABCDE_TRANS__RXN__240,DoxABCDE,,"5098,0044,0045,1742,1741",and
+oxp_3.6.3.14_ATP__synthase,ATPase,,"0559,0560,0561,0563,0564,0566,0567,6175",and
+superoxide_1.11.1.15_BS373387,,,0316,
