@@ -1,0 +1,1 @@
+Open the copasi file, first click 'Tasks', second click 'Parameter scan', and third click 'Run', the figure 3 will show up. 
