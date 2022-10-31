@@ -1,0 +1,2 @@
+1. Open the copasi file, first click 'Tasks', second click 'Steady state', and third click 'Run', in the table appears click 'Reactions', the fluxes will show up, click 'species', the concentrations for intermediate metabolites will show up. 
+2. Open the copasi file, first click 'Tasks', second click 'Metabolic Control Analysis', and third click 'Run', in the table appears click 'Flux Control Coefficients', the fluxe control coefficients will show up.
